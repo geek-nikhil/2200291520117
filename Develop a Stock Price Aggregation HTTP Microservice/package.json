@@ -1,0 +1,24 @@
+{
+  "name": "develop-a-stock-price-aggregation-http-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geek-nikhil/2200291520117.git"
+  },
+  "author": "geek-\\nikhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geek-nikhil/2200291520117/issues"
+  },
+  "homepage": "https://github.com/geek-nikhil/2200291520117#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
